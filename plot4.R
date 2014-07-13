@@ -1,5 +1,5 @@
 ## JHU on Coursera:
-## Exploratory Data Analysis - Assignment 1, Plot 3
+## Exploratory Data Analysis - Assignment 1, Plot 4
 
 ## DATA SOURCE: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip 
 
